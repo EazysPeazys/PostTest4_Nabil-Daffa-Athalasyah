@@ -12,23 +12,39 @@ Kelas: C 2024**
 ## Abstraction (1 abstract class & 1 interface):
 **(Saham):**
 
-
+<img width="1143" height="881" alt="Screenshot 2025-09-28 180952" src="https://github.com/user-attachments/assets/0e809591-c3a9-48ac-a634-da729462333c" />
 
 **(Obligasi):**
 
-
+<img width="1184" height="882" alt="Screenshot 2025-09-28 180936" src="https://github.com/user-attachments/assets/2fc0f653-8182-41d3-a3ad-afdb40dae7c6" />
 
 **Interface:**
 **(Package Interface):**
 
-
+<img width="396" height="45" alt="Screenshot 2025-09-28 181032" src="https://github.com/user-attachments/assets/3eaeb1a0-6a60-4ce4-be51-e99ac81cdd7b" />
 
 **(Transaksi Interface)**
 
-
+<img width="385" height="209" alt="Screenshot 2025-09-28 181018" src="https://github.com/user-attachments/assets/ace774a1-6e9b-4591-95a4-ee93a86ebae3" />
 
 ## Polymorphism ( 1 Overloading & 1 Overriding):
+**(Saham):**
+**1. Override**
 
+<img width="800" height="177" alt="Screenshot 2025-09-28 181139" src="https://github.com/user-attachments/assets/73c14fe8-3891-44b4-a129-fd2e21115f91" />
+
+**2. Overloading**
+
+<img width="1133" height="274" alt="Screenshot 2025-09-28 181219" src="https://github.com/user-attachments/assets/3d734503-0af9-4799-8d94-41fcb4fb3fcd" />
+
+**(Obligasi):**
+**1. Override**
+
+<img width="798" height="182" alt="Screenshot 2025-09-28 181120" src="https://github.com/user-attachments/assets/a25a7467-1e74-497e-9282-b0db52efe54a" />
+
+**2. Overloading**
+
+<img width="1133" height="274" alt="Screenshot 2025-09-28 181219" src="https://github.com/user-attachments/assets/a12e4dc1-8e6d-4ac0-90eb-f2e49d8c478d" />
 
 # B. GAMBAR FULL OUTPUT CODINGAN JAVA
 
