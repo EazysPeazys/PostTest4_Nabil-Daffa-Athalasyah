@@ -61,18 +61,29 @@ Kelas: C 2024**
 
 # C. PENJELASAN INPUT
 ## Abstraction (Abstract Class):
-<img width="1184" height="882" alt="Screenshot 2025-09-28 180936" src="https://github.com/user-attachments/assets/4c5bfb6a-93cb-4718-bada-4fbbd01ce635" />
+**(Saham)**
+**Input:**
 
-Pada abstract class Obligasi, terdapat atribut tambahan berupa bunga yang menunjukkan tingkat bunga obligasi. Class ini mengoverride method infoAset() untuk menampilkan detail aset obligasi, serta menerapkan overloading pada method yang sama dengan parameter berbeda sehingga informasi dapat ditampilkan lebih fleksibel.
+<img width="664" height="518" alt="Screenshot 2025-09-28 191701" src="https://github.com/user-attachments/assets/55b69c8d-1d50-4878-b5d2-93e4f6cad583" />
 
-<img width="1143" height="881" alt="Screenshot 2025-09-28 180952" src="https://github.com/user-attachments/assets/db62acdf-15c6-4ec4-8063-fd8353563a23" />
+**Output:**
 
-Dan pada abstract class Saham, terdapat atribut tambahan berupa perusahaan yang menunjukkan nama penerbit saham. Class ini juga mengoverride method infoAset() untuk menampilkan detail saham, dan menyediakan overloading pada method tersebut agar informasi saham dapat ditampilkan dengan tambahan keterangan atau jumlah lot.
+<img width="631" height="555" alt="Screenshot 2025-09-28 182446" src="https://github.com/user-attachments/assets/3ccfbcd4-2c4b-4e2c-ba50-f1ff72a6174e" />
+<img width="628" height="539" alt="Screenshot 2025-09-28 181447" src="https://github.com/user-attachments/assets/a5059483-311c-4ca2-9e5c-0b4c67801797" />
+
+Pada class abstract Saham yang merupakan turunan dari AsetInvestasi, didefinisikan atribut tambahan perusahaan untuk menyimpan nama perusahaan penerbit saham. Konstruktor Saham digunakan untuk menginisialisasi nama aset, nilai aset, dan nama perusahaan. Method infoAset() yang di-override digunakan untuk menampilkan informasi lengkap mengenai saham tersebut, seperti jenis aset, nama aset, nilai aset, dan nama perusahaan. Pada saat program dijalankan, pengguna memilih menu pencarian aset berdasarkan nama atau nilai. Setelah pengguna memasukkan data pencarian (misalnya nilai 5000000 atau nama “BBNI”), program menemukan objek saham yang sesuai lalu memanggil infoAset() sehingga dihasilkan output berupa: “Ini merupakan Aset Saham” diikuti detail nama aset, nilai aset, dan perusahaan seperti yang tampil pada output program.
+
+**(Obligasi)**
+**Input:**
+
+<img width="641" height="522" alt="Screenshot 2025-09-28 191648" src="https://github.com/user-attachments/assets/7639cc52-66bb-49e5-9e28-24e6b7be9d8b" />
+
+**Output:**
+
+<img width="643" height="568" alt="Screenshot 2025-09-28 183524" src="https://github.com/user-attachments/assets/5c31716b-ea0b-4e28-878c-a391310f4963" />
+<img width="617" height="560" alt="Screenshot 2025-09-28 182507" src="https://github.com/user-attachments/assets/86041e99-3bc9-4a31-a32f-0b3e717fedfa" />
+
+Pada class abstract Obligasi yang merupakan turunan dari AsetInvestasi, didefinisikan atribut tambahan bunga untuk menyimpan besar bunga obligasi. Konstruktor Obligasi digunakan untuk menginisialisasi nama aset, nilai aset, dan besaran bunga. Method infoAset() yang di-override digunakan untuk menampilkan informasi lengkap mengenai obligasi tersebut, seperti jenis aset, nama aset, nilai aset, dan bunga. Pada saat program dijalankan, pengguna memilih menu pencarian aset berdasarkan nama atau nilai. Setelah pengguna memasukkan data pencarian (misalnya nama “SBN75” atau nilai 4500000), program menemukan objek obligasi yang sesuai lalu memanggil infoAset() sehingga dihasilkan output berupa: “Ini merupakan Aset Obligasi” diikuti detail nama aset, nilai aset, dan bunga seperti yang tampil pada output program.
 
 ## Polymorphism (Overloading & Overriding):
 **(Overloading)**
-
-<img width="628" height="539" alt="Screenshot 2025-09-28 181447" src="https://github.com/user-attachments/assets/715e2466-04bf-43d2-82c3-c70c3028c593" />
-
-<img width="631" height="555" alt="Screenshot 2025-09-28 182446" src="https://github.com/user-attachments/assets/039d549f-fe27-4eba-a511-4e0485bdc1b0" />
-Polymorphism dengan overloading di kelas Saham berarti kita membuat beberapa metode dengan nama yang sama, misalnya infoAset(), tetapi dibedakan berdasarkan parameter yang dimilikinya. Tujuannya agar satu nama metode bisa digunakan dalam berbagai situasi sesuai kebutuhan.
