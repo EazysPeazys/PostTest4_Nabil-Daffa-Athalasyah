@@ -62,6 +62,7 @@ Kelas: C 2024**
 # C. PENJELASAN INPUT
 ## Abstraction (Abstract Class):
 **(Saham)**
+
 **Input:**
 
 <img width="664" height="518" alt="Screenshot 2025-09-28 191701" src="https://github.com/user-attachments/assets/55b69c8d-1d50-4878-b5d2-93e4f6cad583" />
@@ -92,6 +93,7 @@ Interface Transaksi adalah sebuah antarmuka yang berfungsi sebagai kontrak atau 
 
 ## Polymorphism (Overloading & Overriding):
 **(Overloading)**
+
 **1. Saham:**
 
 <img width="1080" height="250" alt="Screenshot 2025-09-28 181204" src="https://github.com/user-attachments/assets/02a07d0c-15a3-4a47-b187-960e0c842839" />
@@ -105,6 +107,7 @@ Pada Overloading di Class Saham Method infoAset(String keterangan) digunakan unt
 Pada Overloading di Class Obligasi Method infoAset(String keterangan) digunakan untuk menampilkan informasi nama obligasi disertai keterangan tambahan yang diinginkan pengguna. Sedangkan method infoAset(double tambahanNilai) digunakan untuk menampilkan nama obligasi dengan nilai aset yang sudah ditambahkan nilai tambahan tertentu. Dengan cara ini, pengguna dapat memilih apakah ingin melihat obligasi dengan keterangan tertentu atau dengan nilai aset yang sudah ditambah, tanpa mengganggu method infoAset() utama yang ada di superclass-nya.
 
 **(Override)**
+
 **1. Saham:**
 
 <img width="800" height="177" alt="Screenshot 2025-09-28 181139" src="https://github.com/user-attachments/assets/035834ca-dbd7-4c4d-ad03-776912c729b0" />
