@@ -60,3 +60,19 @@ Kelas: C 2024**
 <img width="617" height="560" alt="Screenshot 2025-09-28 182507" src="https://github.com/user-attachments/assets/a53692c1-2006-4c76-b459-88da34b7357a" />
 
 # C. PENJELASAN INPUT
+## Abstraction (Abstract Class):
+<img width="1184" height="882" alt="Screenshot 2025-09-28 180936" src="https://github.com/user-attachments/assets/4c5bfb6a-93cb-4718-bada-4fbbd01ce635" />
+
+Pada abstract class Obligasi, terdapat atribut tambahan berupa bunga yang menunjukkan tingkat bunga obligasi. Class ini mengoverride method infoAset() untuk menampilkan detail aset obligasi, serta menerapkan overloading pada method yang sama dengan parameter berbeda sehingga informasi dapat ditampilkan lebih fleksibel.
+
+<img width="1143" height="881" alt="Screenshot 2025-09-28 180952" src="https://github.com/user-attachments/assets/db62acdf-15c6-4ec4-8063-fd8353563a23" />
+
+Dan pada abstract class Saham, terdapat atribut tambahan berupa perusahaan yang menunjukkan nama penerbit saham. Class ini juga mengoverride method infoAset() untuk menampilkan detail saham, dan menyediakan overloading pada method tersebut agar informasi saham dapat ditampilkan dengan tambahan keterangan atau jumlah lot.
+
+## Polymorphism (Overloading & Overriding):
+**(Overloading)**
+
+<img width="628" height="539" alt="Screenshot 2025-09-28 181447" src="https://github.com/user-attachments/assets/715e2466-04bf-43d2-82c3-c70c3028c593" />
+
+<img width="631" height="555" alt="Screenshot 2025-09-28 182446" src="https://github.com/user-attachments/assets/039d549f-fe27-4eba-a511-4e0485bdc1b0" />
+Polymorphism dengan overloading di kelas Saham berarti kita membuat beberapa metode dengan nama yang sama, misalnya infoAset(), tetapi dibedakan berdasarkan parameter yang dimilikinya. Tujuannya agar satu nama metode bisa digunakan dalam berbagai situasi sesuai kebutuhan.
