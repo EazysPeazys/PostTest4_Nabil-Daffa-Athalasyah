@@ -29,6 +29,7 @@ Kelas: C 2024**
 
 ## Polymorphism ( 1 Overloading & 1 Overriding):
 **(Saham):**
+
 **1. Override**
 
 <img width="800" height="177" alt="Screenshot 2025-09-28 181139" src="https://github.com/user-attachments/assets/73c14fe8-3891-44b4-a129-fd2e21115f91" />
@@ -38,6 +39,7 @@ Kelas: C 2024**
 <img width="1133" height="274" alt="Screenshot 2025-09-28 181219" src="https://github.com/user-attachments/assets/3d734503-0af9-4799-8d94-41fcb4fb3fcd" />
 
 **(Obligasi):**
+
 **1. Override**
 
 <img width="798" height="182" alt="Screenshot 2025-09-28 181120" src="https://github.com/user-attachments/assets/a25a7467-1e74-497e-9282-b0db52efe54a" />
@@ -47,5 +49,14 @@ Kelas: C 2024**
 <img width="1133" height="274" alt="Screenshot 2025-09-28 181219" src="https://github.com/user-attachments/assets/a12e4dc1-8e6d-4ac0-90eb-f2e49d8c478d" />
 
 # B. GAMBAR FULL OUTPUT CODINGAN JAVA
+**(Saham):**
+
+<img width="628" height="539" alt="Screenshot 2025-09-28 181447" src="https://github.com/user-attachments/assets/fdff4527-2e2e-403d-b194-1a783dbea13e" />
+<img width="631" height="555" alt="Screenshot 2025-09-28 182446" src="https://github.com/user-attachments/assets/6c90c798-6436-4b75-a103-1d5fbf7cd58c" />
+
+**(Obligasi):**
+
+<img width="643" height="568" alt="Screenshot 2025-09-28 183524" src="https://github.com/user-attachments/assets/dd898e9c-fa7f-4361-a407-16ed087ad70e" />
+<img width="617" height="560" alt="Screenshot 2025-09-28 182507" src="https://github.com/user-attachments/assets/a53692c1-2006-4c76-b459-88da34b7357a" />
 
 # C. PENJELASAN INPUT
