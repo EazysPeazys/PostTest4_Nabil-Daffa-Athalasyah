@@ -10,7 +10,6 @@ Kelas: C 2024**
 <img width="376" height="398" alt="image" src="https://github.com/user-attachments/assets/8aeaa069-ffb5-4968-9d7c-0e41cab58024" />
 
 ## Abstraction (1 abstract class & 1 interface):
-**Abstract:**
 **(Saham):**
 
 <img width="870" height="677" alt="image" src="https://github.com/user-attachments/assets/d02bb701-6e2a-4749-8acd-0883647a7973" />
