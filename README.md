@@ -23,7 +23,7 @@ Kelas: C 2024**
 
 <img width="205" height="39" alt="image" src="https://github.com/user-attachments/assets/3ed358e0-874b-4ca7-8fd1-f6ec61d211ad" />
 
-**(Input Interface)**
+**(Transaksi Interface)**
 
 <img width="386" height="225" alt="image" src="https://github.com/user-attachments/assets/cef6d2f8-70cb-4a55-ae16-e99ccfbf045d" />
 
