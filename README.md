@@ -52,7 +52,7 @@ Kelas: C 2024**
 **(Saham):**
 
 <img width="628" height="539" alt="Screenshot 2025-09-28 181447" src="https://github.com/user-attachments/assets/fdff4527-2e2e-403d-b194-1a783dbea13e" />
-<img width="631" height="555" alt="Screenshot 2025-09-28 182446" src="https://github.com/user-attachments/assets/6c90c798-6436-4b75-a103-1d5fbf7cd58c" />
+<img width="1082" height="251" alt="image" src="https://github.com/user-attachments/assets/2312c4b0-fbbe-45ff-9a9f-22f3263c4e59" />
 
 **(Obligasi):**
 
