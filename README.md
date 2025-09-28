@@ -36,7 +36,7 @@ Kelas: C 2024**
 
 **2. Overloading**
 
-<img width="1133" height="274" alt="Screenshot 2025-09-28 181219" src="https://github.com/user-attachments/assets/3d734503-0af9-4799-8d94-41fcb4fb3fcd" />
+<img width="1082" height="251" alt="image" src="https://github.com/user-attachments/assets/91b1bac2-7a69-4fd5-80c6-1354c4af4918" />
 
 **(Obligasi):**
 
