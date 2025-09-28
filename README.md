@@ -9,7 +9,7 @@ Kelas: C 2024**
 # A. GAMBAR FULL INPUT CODINGAN JAVA
 <img width="376" height="398" alt="image" src="https://github.com/user-attachments/assets/8aeaa069-ffb5-4968-9d7c-0e41cab58024" />
 
-## Abstraction (1 abstract class & 1 interface):
+## Abstraction (Abstract Class):
 **(Saham):**
 
 <img width="1143" height="881" alt="Screenshot 2025-09-28 180952" src="https://github.com/user-attachments/assets/0e809591-c3a9-48ac-a634-da729462333c" />
@@ -18,7 +18,7 @@ Kelas: C 2024**
 
 <img width="1184" height="882" alt="Screenshot 2025-09-28 180936" src="https://github.com/user-attachments/assets/2fc0f653-8182-41d3-a3ad-afdb40dae7c6" />
 
-**Interface:**
+## Interface:
 **(Package Interface):**
 
 <img width="396" height="45" alt="Screenshot 2025-09-28 181032" src="https://github.com/user-attachments/assets/3eaeb1a0-6a60-4ce4-be51-e99ac81cdd7b" />
