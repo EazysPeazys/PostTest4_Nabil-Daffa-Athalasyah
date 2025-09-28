@@ -87,3 +87,27 @@ Pada class abstract Obligasi yang merupakan turunan dari AsetInvestasi, didefini
 
 ## Polymorphism (Overloading & Overriding):
 **(Overloading)**
+**1. Saham:**
+
+<img width="1080" height="250" alt="Screenshot 2025-09-28 181204" src="https://github.com/user-attachments/assets/02a07d0c-15a3-4a47-b187-960e0c842839" />
+
+Pada Overloading di Class Saham Method infoAset(String keterangan) digunakan untuk menampilkan informasi saham berupa nama saham dan nama perusahaan yang menerbitkan saham tersebut dengan tambahan keterangan tertentu. Sedangkan method infoAset(int jumlahLot) digunakan untuk menampilkan nama saham, perusahaan, serta jumlah lot saham yang dimiliki sesuai input pengguna. Dengan cara ini, pengguna dapat melihat informasi saham yang lebih fleksibel: apakah ingin menambahkan keterangan khusus atau menampilkan jumlah lot yang dimiliki.
+
+**2. Obligasi:**
+
+<img width="1133" height="274" alt="Screenshot 2025-09-28 181219" src="https://github.com/user-attachments/assets/f1e153a8-6845-4ed9-bba1-7af5bc4e35a5" />
+
+Pada Overloading di Class Obligasi Method infoAset(String keterangan) digunakan untuk menampilkan informasi nama obligasi disertai keterangan tambahan yang diinginkan pengguna. Sedangkan method infoAset(double tambahanNilai) digunakan untuk menampilkan nama obligasi dengan nilai aset yang sudah ditambahkan nilai tambahan tertentu. Dengan cara ini, pengguna dapat memilih apakah ingin melihat obligasi dengan keterangan tertentu atau dengan nilai aset yang sudah ditambah, tanpa mengganggu method infoAset() utama yang ada di superclass-nya.
+
+**(Override)**
+**1. Saham:**
+
+<img width="800" height="177" alt="Screenshot 2025-09-28 181139" src="https://github.com/user-attachments/assets/035834ca-dbd7-4c4d-ad03-776912c729b0" />
+
+Pada class Saham, method infoAset() yang di-override digunakan untuk menampilkan detail lengkap tentang aset saham. Method ini akan mencetak keterangan bahwa data tersebut merupakan aset saham, kemudian menampilkan nama aset (nama saham), nilai aset (harga total saham yang dimiliki), dan nama perusahaan penerbit saham tersebut. Dengan begitu, method ini menyajikan informasi spesifik tentang saham yang dimiliki secara lengkap.
+
+**2. Obligasi:**
+
+<img width="798" height="182" alt="Screenshot 2025-09-28 181120" src="https://github.com/user-attachments/assets/c2946b55-e2b6-440c-ab1f-5ba83a75645f" />
+
+Pada class Obligasi, method infoAset() yang di-override digunakan untuk menampilkan detail lengkap tentang aset obligasi. Method ini akan mencetak keterangan bahwa data tersebut merupakan aset obligasi, kemudian menampilkan nama aset (nama obligasi), nilai aset (nilai investasi obligasi), dan tingkat bunga yang berlaku pada obligasi tersebut. Dengan begitu, method ini menyajikan informasi spesifik tentang obligasi yang dimiliki secara lengkap.
