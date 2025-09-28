@@ -12,20 +12,20 @@ Kelas: C 2024**
 ## Abstraction (1 abstract class & 1 interface):
 **(Saham):**
 
-<img width="870" height="677" alt="image" src="https://github.com/user-attachments/assets/d02bb701-6e2a-4749-8acd-0883647a7973" />
+
 
 **(Obligasi):**
 
-<img width="792" height="675" alt="image" src="https://github.com/user-attachments/assets/cfb72f1f-1467-430f-aafa-6071ada14df2" />
+
 
 **Interface:**
 **(Package Interface):**
 
-<img width="205" height="39" alt="image" src="https://github.com/user-attachments/assets/3ed358e0-874b-4ca7-8fd1-f6ec61d211ad" />
+
 
 **(Transaksi Interface)**
 
-<img width="386" height="225" alt="image" src="https://github.com/user-attachments/assets/cef6d2f8-70cb-4a55-ae16-e99ccfbf045d" />
+
 
 ## Polymorphism ( 1 Overloading & 1 Overriding):
 
