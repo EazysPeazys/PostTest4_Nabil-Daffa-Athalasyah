@@ -85,6 +85,11 @@ Pada class abstract Saham yang merupakan turunan dari AsetInvestasi, didefinisik
 
 Pada class abstract Obligasi yang merupakan turunan dari AsetInvestasi, didefinisikan atribut tambahan bunga untuk menyimpan besar bunga obligasi. Konstruktor Obligasi digunakan untuk menginisialisasi nama aset, nilai aset, dan besaran bunga. Method infoAset() yang di-override digunakan untuk menampilkan informasi lengkap mengenai obligasi tersebut, seperti jenis aset, nama aset, nilai aset, dan bunga. Pada saat program dijalankan, pengguna memilih menu pencarian aset berdasarkan nama atau nilai. Setelah pengguna memasukkan data pencarian (misalnya nama “SBN75” atau nilai 4500000), program menemukan objek obligasi yang sesuai lalu memanggil infoAset() sehingga dihasilkan output berupa: “Ini merupakan Aset Obligasi” diikuti detail nama aset, nilai aset, dan bunga seperti yang tampil pada output program.
 
+## Interface
+<img width="385" height="209" alt="Screenshot 2025-09-28 181018" src="https://github.com/user-attachments/assets/ae837d74-75d2-42ff-b644-a509f0beb9db" />
+
+Interface Transaksi adalah sebuah antarmuka yang berfungsi sebagai kontrak atau standar untuk proses transaksi jual beli pada aset. Di dalam interface ini terdapat dua method, yaitu beli(double jumlah) dan jual(double jumlah). Method beli() digunakan untuk mendefinisikan perilaku pembelian aset dalam jumlah tertentu, sedangkan method jual() digunakan untuk mendefinisikan perilaku penjualan aset dalam jumlah tertentu. Penerapan interface Transaksi memastikan bahwa setiap kelas yang berhubungan dengan transaksi (contohnya Saham dan Obligasi) mengimplementasikan kedua metode yang ditetapkan sesuai kebutuhan. Hal ini menjadikan sistem lebih rapi, konsisten, dan mudah diperluas karena meskipun mengikuti standar yang sama, setiap kelas dapat mengatur sendiri mekanisme pembelian dan penjualannya.
+
 ## Polymorphism (Overloading & Overriding):
 **(Overloading)**
 **1. Saham:**
