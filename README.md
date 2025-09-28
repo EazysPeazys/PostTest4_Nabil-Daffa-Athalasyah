@@ -10,6 +10,7 @@ Kelas: C 2024**
 <img width="376" height="398" alt="image" src="https://github.com/user-attachments/assets/8aeaa069-ffb5-4968-9d7c-0e41cab58024" />
 
 ## Abstraction (Abstract Class):
+
 **(Saham):**
 
 <img width="1143" height="881" alt="Screenshot 2025-09-28 180952" src="https://github.com/user-attachments/assets/0e809591-c3a9-48ac-a634-da729462333c" />
@@ -28,6 +29,7 @@ Kelas: C 2024**
 <img width="385" height="209" alt="Screenshot 2025-09-28 181018" src="https://github.com/user-attachments/assets/ace774a1-6e9b-4591-95a4-ee93a86ebae3" />
 
 ## Polymorphism ( 1 Overloading & 1 Overriding):
+
 **(Saham):**
 
 **1. Override**
@@ -49,6 +51,7 @@ Kelas: C 2024**
 <img width="1133" height="274" alt="Screenshot 2025-09-28 181219" src="https://github.com/user-attachments/assets/a12e4dc1-8e6d-4ac0-90eb-f2e49d8c478d" />
 
 # B. GAMBAR FULL OUTPUT CODINGAN JAVA
+
 **(Saham):**
 
 <img width="628" height="539" alt="Screenshot 2025-09-28 181447" src="https://github.com/user-attachments/assets/fdff4527-2e2e-403d-b194-1a783dbea13e" />
@@ -61,6 +64,7 @@ Kelas: C 2024**
 
 # C. PENJELASAN INPUT
 ## Abstraction (Abstract Class):
+
 **(Saham)**
 
 **Input:**
@@ -75,6 +79,7 @@ Kelas: C 2024**
 Pada class abstract Saham yang merupakan turunan dari AsetInvestasi, didefinisikan atribut tambahan perusahaan untuk menyimpan nama perusahaan penerbit saham. Konstruktor Saham digunakan untuk menginisialisasi nama aset, nilai aset, dan nama perusahaan. Method infoAset() yang di-override digunakan untuk menampilkan informasi lengkap mengenai saham tersebut, seperti jenis aset, nama aset, nilai aset, dan nama perusahaan. Pada saat program dijalankan, pengguna memilih menu pencarian aset berdasarkan nama atau nilai. Setelah pengguna memasukkan data pencarian (misalnya nilai 5000000 atau nama “BBNI”), program menemukan objek saham yang sesuai lalu memanggil infoAset() sehingga dihasilkan output berupa: “Ini merupakan Aset Saham” diikuti detail nama aset, nilai aset, dan perusahaan seperti yang tampil pada output program.
 
 **(Obligasi)**
+
 **Input:**
 
 <img width="641" height="522" alt="Screenshot 2025-09-28 191648" src="https://github.com/user-attachments/assets/7639cc52-66bb-49e5-9e28-24e6b7be9d8b" />
